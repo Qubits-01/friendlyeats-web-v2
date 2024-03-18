@@ -1,0 +1,11 @@
+lib/firebase/config.js
+.next/
+.firebase/
+
+friendlyeats-codelab-7f3b3-firebase-adminsdk-iu231-349663864e.json
+
+**/.firebaserc
+**/node_modules/
+**/*-debug.log
+
+.env
